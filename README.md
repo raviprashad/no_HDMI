@@ -1,4 +1,4 @@
-# 📡 Wireless Screen Casting (No HDMI Required)
+# 📡 Wireless Screen Casting (no_HDMI Required)
 
 ## 📌 Problem Statement
 In many classrooms, teachers face a common issue: missing HDMI cables, which prevents them from connecting their laptops to digital boards or projectors.
