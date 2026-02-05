@@ -91,3 +91,15 @@ Feel free to fork this repository and submit a pull request.
 
 ## 📄 License
 This project is open-source.
+
+```mermaid
+graph TD
+    A[Teacher Laptop<br/>Screen Casting Server] -->|HTTP :5000| B[Same Wi-Fi Network]
+
+    B --> C[Digital Board<br/>Web Browser]
+    B --> D[Student Device 1<br/>Web Browser]
+    B --> E[Student Device 2<br/>Web Browser]
+    B --> F[Student Device N<br/>Web Browser]
+
+
+
